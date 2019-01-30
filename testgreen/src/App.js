@@ -1,6 +1,11 @@
 import React, { Component } from 'react';
 import Landing from './LandingPage';
 class App extends Component {
+  
+
+  
+
+  
   render() {
     return (
       <div className='App' style={{margin: '0 auto', maxWidth: '1000px'}}>
